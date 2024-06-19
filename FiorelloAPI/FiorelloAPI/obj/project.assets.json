@@ -2478,11 +2478,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\FiorelloAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Əsgərxan\\Desktop\\fiorello\\FiorelloAPI\\FiorelloAPI\\FiorelloAPI.csproj",
       "projectName": "FiorelloAPI",
-      "projectPath": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\FiorelloAPI.csproj",
+      "projectPath": "C:\\Users\\Əsgərxan\\Desktop\\fiorello\\FiorelloAPI\\FiorelloAPI\\FiorelloAPI.csproj",
       "packagesPath": "C:\\Users\\Əsgərxan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\obj\\",
+      "outputPath": "C:\\Users\\Əsgərxan\\Desktop\\fiorello\\FiorelloAPI\\FiorelloAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

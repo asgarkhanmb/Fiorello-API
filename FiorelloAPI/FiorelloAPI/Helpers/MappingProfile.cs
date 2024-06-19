@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using FiorelloAPI.DTOs.Blogs;
 using FiorelloAPI.DTOs.Categories;
+using FiorelloAPI.DTOs.Porducts;
 using FiorelloAPI.DTOs.Sliders;
 using FiorelloAPI.Models;
 using System.Reflection.Metadata;

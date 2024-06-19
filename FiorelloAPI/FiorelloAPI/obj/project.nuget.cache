@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xUxns1WviuA=",
+  "dgSpecHash": "JcLc25ouRrM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\FiorelloAPI.csproj",
+  "projectFilePath": "C:\\Users\\Əsgərxan\\Desktop\\fiorello\\FiorelloAPI\\FiorelloAPI\\FiorelloAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Əsgərxan\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Əsgərxan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
