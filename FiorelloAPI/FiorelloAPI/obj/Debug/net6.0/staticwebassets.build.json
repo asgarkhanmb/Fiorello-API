@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "5kDtkj8Q3W7pX/iHjiJIZxCebbUpJKBQzBcQGtoNJsw=",
+  "Source": "FiorelloAPI",
+  "BasePath": "_content/FiorelloAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FiorelloAPI\\wwwroot",
+      "Source": "FiorelloAPI",
+      "ContentRoot": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\wwwroot\\",
+      "BasePath": "_content/FiorelloAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\wwwroot\\image\\4f4e9462-3d82-42c9-bd0c-b21acb5478ab-1.jpg",
+      "SourceId": "FiorelloAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\wwwroot\\",
+      "BasePath": "_content/FiorelloAPI",
+      "RelativePath": "image/4f4e9462-3d82-42c9-bd0c-b21acb5478ab-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\4f4e9462-3d82-42c9-bd0c-b21acb5478ab-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\wwwroot\\image\\a821037b-c2c9-4b45-ab30-a36ce16ac8ba-2.jpg",
+      "SourceId": "FiorelloAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Əsgərxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\wwwroot\\",
+      "BasePath": "_content/FiorelloAPI",
+      "RelativePath": "image/a821037b-c2c9-4b45-ab30-a36ce16ac8ba-2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\a821037b-c2c9-4b45-ab30-a36ce16ac8ba-2.jpg"
+    }
+  ]
+}

@@ -1,0 +1,529 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\dtos\\porducts\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\dtos\\porducts\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\dtos\\porducts\\productimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\dtos\\porducts\\productimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\dtos\\porducts\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\dtos\\porducts\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\helpers\\entityconfigurations\\categoryconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\helpers\\entityconfigurations\\categoryconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\dtos\\categories\\categoryeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\dtos\\categories\\categoryeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\dtos\\categories\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\dtos\\categories\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\dtos\\categories\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\dtos\\categories\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\dtos\\blogs\\blogeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\dtos\\blogs\\blogeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\dtos\\blogs\\blogcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\dtos\\blogs\\blogcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\dtos\\blogs\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\dtos\\blogs\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\dtos\\sliders\\slidereditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\dtos\\sliders\\slidereditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\helpers\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\helpers\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\dtos\\sliders\\slidercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\dtos\\sliders\\slidercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\dtos\\sliders\\sliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\dtos\\sliders\\sliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\models\\sliderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\models\\sliderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\fiorelloapi\\fiorelloapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0650131-77FC-421D-9477-650A31C6D281}|FiorelloAPI\\FiorelloAPI.csproj|solutionrelative:fiorelloapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FiorelloAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:23:59.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Porducts\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\DTOs\\Porducts\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Porducts\\ProductCreateDto.cs",
+              "RelativeToolTip": "FiorelloAPI\\DTOs\\Porducts\\ProductCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:21:40.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductImageDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Porducts\\ProductImageDto.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\DTOs\\Porducts\\ProductImageDto.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Porducts\\ProductImageDto.cs",
+              "RelativeToolTip": "FiorelloAPI\\DTOs\\Porducts\\ProductImageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:21:15.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Porducts\\ProductDto.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\DTOs\\Porducts\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Porducts\\ProductDto.cs",
+              "RelativeToolTip": "FiorelloAPI\\DTOs\\Porducts\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:20:34.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FiorelloAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:32:37.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Program.cs",
+              "RelativeToolTip": "FiorelloAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:29:37.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Models\\ProductImage.cs",
+              "RelativeToolTip": "FiorelloAPI\\Models\\ProductImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:18:01.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Models\\Product.cs",
+              "RelativeToolTip": "FiorelloAPI\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:17:26.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Helpers\\EntityConfigurations\\CategoryConfigurations.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\Helpers\\EntityConfigurations\\CategoryConfigurations.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Helpers\\EntityConfigurations\\CategoryConfigurations.cs",
+              "RelativeToolTip": "FiorelloAPI\\Helpers\\EntityConfigurations\\CategoryConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:13:02.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "FiorelloAPI\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:39:55.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "FiorelloAPI\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAuwEsAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:01:11.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "FiorelloAPI\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:43:26.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Categories\\CategoryEditDto.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\DTOs\\Categories\\CategoryEditDto.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Categories\\CategoryEditDto.cs",
+              "RelativeToolTip": "FiorelloAPI\\DTOs\\Categories\\CategoryEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:00:13.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Categories\\CategoryCreateDto.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\DTOs\\Categories\\CategoryCreateDto.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Categories\\CategoryCreateDto.cs",
+              "RelativeToolTip": "FiorelloAPI\\DTOs\\Categories\\CategoryCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:59:52.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Categories\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\DTOs\\Categories\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Categories\\CategoryDto.cs",
+              "RelativeToolTip": "FiorelloAPI\\DTOs\\Categories\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:57:57.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\Helpers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "FiorelloAPI\\Helpers\\MappingProfile.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:17:01.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Models\\Category.cs",
+              "RelativeToolTip": "FiorelloAPI\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:56:08.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlogEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Blogs\\BlogEditDto.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\DTOs\\Blogs\\BlogEditDto.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Blogs\\BlogEditDto.cs",
+              "RelativeToolTip": "FiorelloAPI\\DTOs\\Blogs\\BlogEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:42:25.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BlogCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Blogs\\BlogCreateDto.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\DTOs\\Blogs\\BlogCreateDto.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Blogs\\BlogCreateDto.cs",
+              "RelativeToolTip": "FiorelloAPI\\DTOs\\Blogs\\BlogCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:42:04.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BlogDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Blogs\\BlogDto.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\DTOs\\Blogs\\BlogDto.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Blogs\\BlogDto.cs",
+              "RelativeToolTip": "FiorelloAPI\\DTOs\\Blogs\\BlogDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:41:43.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Models\\Blog.cs",
+              "RelativeToolTip": "FiorelloAPI\\Models\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:40:43.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SliderEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Sliders\\SliderEditDto.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\DTOs\\Sliders\\SliderEditDto.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Sliders\\SliderEditDto.cs",
+              "RelativeToolTip": "FiorelloAPI\\DTOs\\Sliders\\SliderEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:45:21.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Helpers\\Extensions\\FileExtension.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\Helpers\\Extensions\\FileExtension.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Helpers\\Extensions\\FileExtension.cs",
+              "RelativeToolTip": "FiorelloAPI\\Helpers\\Extensions\\FileExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:24:19.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FiorelloAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\appsettings.json",
+              "RelativeToolTip": "FiorelloAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T07:32:00.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "FiorelloAPI\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:40:10.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SliderCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Sliders\\SliderCreateDto.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\DTOs\\Sliders\\SliderCreateDto.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Sliders\\SliderCreateDto.cs",
+              "RelativeToolTip": "FiorelloAPI\\DTOs\\Sliders\\SliderCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:45:46.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SliderDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Sliders\\SliderDto.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\DTOs\\Sliders\\SliderDto.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\DTOs\\Sliders\\SliderDto.cs",
+              "RelativeToolTip": "FiorelloAPI\\DTOs\\Sliders\\SliderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:44:41.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SliderInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Models\\SliderInfo.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\Models\\SliderInfo.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Models\\SliderInfo.cs",
+              "RelativeToolTip": "FiorelloAPI\\Models\\SliderInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:38:38.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Models\\Slider.cs",
+              "RelativeToolTip": "FiorelloAPI\\Models\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:37:53.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "FiorelloAPI\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "FiorelloAPI\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:34:08.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FiorelloAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\FiorelloAPI\\FiorelloAPI\\appsettings.Development.json",
+              "RelativeToolTip": "FiorelloAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T07:24:56.666Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
